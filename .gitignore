@@ -3,6 +3,7 @@ myenv/
 __pycache__/
 .pytest_cache/
 *.pyc
+*.egg-info/
 .ipynb_checkpoints/
 .env
 .vscode/
