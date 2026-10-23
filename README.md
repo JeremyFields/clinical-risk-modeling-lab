@@ -61,7 +61,6 @@ python -m pip install -e .
 python -m tabular_baselines --generate-demo-data demo_data\synthetic_clinical.csv --epochs 80
 ```
 
-The original course submission is not required to run this project.
 
 ## Interpreting The Demo
 
