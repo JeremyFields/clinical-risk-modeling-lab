@@ -1,0 +1,9 @@
+.venv/
+myenv/
+__pycache__/
+.pytest_cache/
+*.pyc
+.ipynb_checkpoints/
+.env
+.vscode/
+demo_data/

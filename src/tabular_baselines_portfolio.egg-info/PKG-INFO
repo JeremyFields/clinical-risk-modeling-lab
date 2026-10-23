@@ -1,0 +1,9 @@
+Metadata-Version: 2.4
+Name: tabular-baselines-portfolio
+Version: 0.1.0
+Summary: A reproducible study of imbalance handling, Random Forests, and PyTorch tabular networks
+Requires-Python: >=3.10
+Requires-Dist: numpy
+Requires-Dist: pandas
+Requires-Dist: scikit-learn
+Requires-Dist: torch
